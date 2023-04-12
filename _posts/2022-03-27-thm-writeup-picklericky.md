@@ -98,7 +98,7 @@ Se descubren varios directorios, que se proceden a verificar.
 
 El primero es el directorio ```/assets```, que dispone de listado de directorios pero no se encuentra nada relevante, más allá de esta apreciación.  
 
-![](image.png)
+![](https://i.imgur.com/TRA9rFQ.png)
 
 El recurso ```login.php```, al acceder solicita una credenciales de lo que parece un panel de administración.
 
