@@ -260,10 +260,10 @@ By,
 DesKel a.k.a Agent R
 ```
 
-[Agentsudo1]: https://i.imgur.com/S4euCsd.png
-[Agentsudo2]: https://i.imgur.com/purbL9m.png
-[Agentsudo3]: https://i.imgur.com/XvI3hAz.png
-
 Y hasta aquí la resolución de la máquina más alienígena desde la de [Rick y Morty](https://s3cureroy.github.io/posts/thm-writeup-picklericky/). Espero que os haya gustado, y recordad las redes sociales si queréis contactar conmigo.
 
 Salu2!!!
+
+[Agentsudo1]: https://i.imgur.com/S4euCsd.png
+[Agentsudo2]: https://i.imgur.com/purbL9m.png
+[Agentsudo3]: https://i.imgur.com/XvI3hAz.png
