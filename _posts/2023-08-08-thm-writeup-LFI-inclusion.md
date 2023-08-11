@@ -2,7 +2,7 @@
 layout: post
 title: Tryhackme - LFI inclusion
 autor: S3cureroy
-date: 2022-08-08
+date: 2023-08-08
 categories: [CTF, Tryhackme]
 tags: [ LFI , enumeración , web , passwd ]
 ---
