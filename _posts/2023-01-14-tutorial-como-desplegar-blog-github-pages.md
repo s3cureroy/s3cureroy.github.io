@@ -116,4 +116,3 @@ Entonces, si se accede mediante el navegador a la dirección IP de la máquina q
 > Recuerda que para agradecer al desarrollador del tema, en lugar de clonar el repositorio directamente, se puede hacer un *fork* a un repositorio propio y desde ahí, clonarlo. 
 
 
-<a href="#top">Volver arriba</a>

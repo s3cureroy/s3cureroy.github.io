@@ -40,4 +40,3 @@ Como balance, sigo pensando que es un evento muy disfrutable, y probablemente al
 
 Nos vemos en próximas entradas. ¡Saludos!
 
-<a href="#top">Volver arriba</a>

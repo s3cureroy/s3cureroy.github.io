@@ -264,7 +264,7 @@ Y hasta aquí la resolución de la máquina más alienígena desde la de [Rick y
 
 Salu2!!!
 
-<a href="#top">Volver arriba</a>
+
 
 [Agentsudo1]: https://i.imgur.com/S4euCsd.png
 [Agentsudo2]: https://i.imgur.com/purbL9m.png

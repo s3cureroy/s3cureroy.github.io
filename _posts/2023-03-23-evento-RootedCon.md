@@ -72,4 +72,3 @@ Después de eso, tenía un evento personal y me fue imposible asistir a muchas m
 
 Hasta aquí la bitácora de RootedCon 2023 que en mi caso, fue muy especial y pude disfrutarla mucho. 
 
-<a href="#top">Volver arriba</a>

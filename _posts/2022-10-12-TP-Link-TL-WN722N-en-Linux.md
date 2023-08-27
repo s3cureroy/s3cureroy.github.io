@@ -204,4 +204,3 @@ Ya se puede realizar capturas de paquetes para intentar capturar algún *handsha
 
 Espero que sea de ayuda, ¡hasta la próxima!
 
-<a href="#top">Volver arriba</a>

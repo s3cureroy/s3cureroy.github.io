@@ -125,7 +125,7 @@ cat /root/root.txt
 THM{pr1v1l3g3_3sc4l4t10n}
 ~~~
 
-<a href="#top">Volver arriba</a>
+
 
 [rootme1]: https://i.imgur.com/FBlxsxX.png
 [rootme2]: https://i.imgur.com/F9EmKQw.png

@@ -291,7 +291,6 @@ Espero que os haya gustado, y recordad las redes sociales si queréis contactar 
 
 Salu2!!!
 
-<a href="#top">Volver arriba</a>
 
 
 [LazyAdmin1]: https://i.imgur.com/cq4KrWp.png
