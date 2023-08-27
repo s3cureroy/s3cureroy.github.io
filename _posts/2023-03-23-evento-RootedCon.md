@@ -71,3 +71,5 @@ La ponencia, en mi caso particular, fue una de las que más me gustó del día, 
 Después de eso, tenía un evento personal y me fue imposible asistir a muchas más ponencias, pero sin duda, cuando las publiquen, veré algunas como la de John Hammond.
 
 Hasta aquí la bitácora de RootedCon 2023 que en mi caso, fue muy especial y pude disfrutarla mucho. 
+
+<a href="#top">Volver arriba</a>

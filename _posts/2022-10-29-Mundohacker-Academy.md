@@ -39,3 +39,5 @@ Pero no todo fue bueno, y creo que tener un punto de vista algo crítico, hace q
 Como balance, sigo pensando que es un evento muy disfrutable, y probablemente al mejor que puedas ir si estás empezando en el mundillo de la ciberseguridad, puesto que los talleres, en muchos momentos están pensados para todo tipo de conocimientos.
 
 Nos vemos en próximas entradas. ¡Saludos!
+
+<a href="#top">Volver arriba</a>
